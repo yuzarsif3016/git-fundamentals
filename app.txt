@@ -2,6 +2,6 @@ this is my first line
 this is my second line
 this is my third line
 this is my fourth line
-this is my fifth line
+this is my fifth line modified
 sixth line added via feature branch
 7th line added 
